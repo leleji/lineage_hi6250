@@ -6,7 +6,7 @@
            review="review.lineageos.org" />
 
 <!-- Device-specific Repos -->
-  <project name="GG2501YT/android_kernel_huawei_hi6250" path="kernel/huawei/hi6250" remote="github" revision="7.x" />
+  <project name="GG2501YT/android_kernel_huawei_hi6250-hak86" path="kernel/huawei/hi6250" remote="github" revision="7.x" />
   <project name="GG2501YT/android_device_huawei_hi6250" path="device/huawei/hi6250" remote="github" revision="cm-14.1" />
   <project name="GG2501YT/android_vendor_huawei_hi6250" path="vendor/huawei/hi6250" remote="github" revision="cm-14.1" />
 <!-- nxp-nfc -->
