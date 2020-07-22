@@ -14,6 +14,6 @@
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1"/>
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1"/>
 <!-- Huawei Extras -->
-  <project name="GG2501YT/android_packages_apps_HuaweiSettings" path="packages/apps/HuaweiSettings" remote="github" revision="master" />
+  <project name="GG2501YT/android_packages_apps_Extras-hi6250" path="packages/apps/Extras" remote="github" revision="master" />
 
 </manifest>
