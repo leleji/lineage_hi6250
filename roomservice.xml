@@ -7,8 +7,8 @@
 
 <!-- Device-specific Repos -->
   <project name="GG2501YT/android_kernel_huawei_hi6250" path="kernel/huawei/hi6250" remote="github" revision="8.x" />
-  <project name="GG2501YT/android_device_huawei_hi6250" path="device/huawei/hi6250" remote="github" revision="lineage-15.1" />
-  <project name="GG2501YT/android_vendor_huawei_hi6250" path="vendor/huawei/hi6250" remote="github" revision="lineage-15.1" />
+  <project name="hi6250-5/android_device_huawei_hi6250-common" path="device/huawei/hi6250" remote="github" revision="lineage-15.1" />
+  <project name="hi6250-5/android_vendor_huawei_hi6250-common" path="vendor/huawei/hi6250" remote="github" revision="lineage-15.1" />
 <!-- nxp-nfc -->
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="lineage-15.1"/>
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="lineage-15.1"/>
