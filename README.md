@@ -6,7 +6,7 @@ This File adds the device-specific Repositorys to build LineageOS 15.1
 `cd build/lineage-15.1`
 
 2. Enter .repo/local_manifests directory and download the roomservice file:
-`cd .repo/local_manifests/ && wget -O roomservice.xml https://raw.githubusercontent.com/GG2501YT/lineage_hi6250/lineage-15.1/roomservice.xml`
+`cd .repo/local_manifests/ && wget -O roomservice.xml https://raw.githubusercontent.com/su3817806/lineage_hi6250/lineage-15.1/roomservice.xml`
 
 3. Go back to your build directory and download the repositorys:
 `cd ../../ && repo sync`
